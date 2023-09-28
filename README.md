@@ -35,8 +35,9 @@ This stage attempts to improve Medibox's fundamental functions and add new featu
 - To enable the user to adjust the minimum angle and controlling factor, Node-RED dashboard is created.
 - In addition, I have implemented a dashboard to display the temperature and Humidity and another dashboard to change the alarm time schedules.
 
-### Wokwi Simulation
+### [Wokwi Simulation](https://wokwi.com/projects/367664700625807361)
 ![Wokwi](https://github.com/Chamod-Kavinda/MediBox/assets/129760133/7d17adc1-0e60-4faf-911c-1e53c07fa2c0)
+
 
 ### Dashboard
 ![Dashboard](https://github.com/Chamod-Kavinda/MediBox/assets/129760133/53251433-091d-4f7b-84ab-4e52ca24e0f7)
